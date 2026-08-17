@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @p0tat05
 - 👀 I’m interested in Programnig I think?
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 - ⚡ Fun fact: I don't have scoliosis. (hopefully it stays like that)👍
 
